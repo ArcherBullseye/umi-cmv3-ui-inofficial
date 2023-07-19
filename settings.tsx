@@ -8,7 +8,7 @@ export const mintText = [
 ];
 
 //header image in the ui. replace with your own
-export const image = "https://sol.nownodes.io/1797fc3d-ee91-467e-8906-bd378da4fd47";
+export const image = "https://a3eo2a5uxyusajskp526fzlc5a4v764pjopas6mf65cbynbpybza.arweave.net/BsjtA7S-KSAmSn914uVi6Dlf-49Lngl5hfdEHDQvwHI";
 
 //website title
 export const headerText = "In a Bottle";
